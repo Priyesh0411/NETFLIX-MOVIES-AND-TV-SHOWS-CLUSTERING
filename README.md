@@ -81,6 +81,7 @@ In text analysis (NLP) I used stop words, removed punctuation's , stemming & TF-
 Applied different clustering models like K-means, hierarchical, Agglomerative clustering, DBSCAN on data we got the best cluster arrangements.
 By applying different clustering algorithms to our data-set .we get the optimal number of cluster is equal to 3
 From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
+
 References:
 
 Wikipedia.
